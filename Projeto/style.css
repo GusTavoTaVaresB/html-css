@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-family: Helvetica;
+    min-height: 100vh;
+    background-color: black;
+}
+
+.visual {
+    background-color: gray;
+    width: 400px;
+    height: 450px;
+    border-radius: 15px;
+}
+
+button {
+    background-color: rgb(12, 192, 12);
+    padding: 5px;
+    border-radius: 15px;
+    color: #fff;
+}
+
+input {
+    background-color: rgb(12, 192, 12);
+    border-radius: 15px;
+}
+
+label {
+    color: #fff;
+}
